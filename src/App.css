@@ -152,3 +152,8 @@ img {
   border-radius: 50%;
   margin: 2px 5px;
 }
+
+
+button.no-more {
+  display: none;
+}
