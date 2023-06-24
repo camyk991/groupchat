@@ -1,0 +1,1 @@
+Simple React.JS, Firebase group chat app made with Youtube video. I added functionality of uploading images to group chat.
